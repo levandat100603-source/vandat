@@ -1,2 +1,2 @@
-"#thuc hanh Git co ban"
-"(Dong nay duoc sua o may local)"
+# Thuc hanh Git co ban
+(Dong nay duoc sua tren GitHub va may local)
